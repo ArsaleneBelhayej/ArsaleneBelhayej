@@ -1,4 +1,4 @@
-<h1 align="center">Hi Fellow Devs👋, I'm Arselene Belhayej</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=35&duration=3500&pause=1000&width=435&lines=%24+whoami;Arselene+Belhayej)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" alt="Developer animation" />
