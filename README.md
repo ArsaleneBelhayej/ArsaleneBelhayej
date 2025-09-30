@@ -5,7 +5,7 @@
   🌐&nbsp;<a href="https://arselene-belhayej.cloud" target="_blank" rel="noopener noreferrer"><strong>arselene-belhayej.cloud</strong></a>
 </h3>
 </div>
-<h2 align="left">🛠️ My Technologies</h2>
+<h2 align="left">🛠️Technologies</h2>
 <h4 align="center">DevOps & Platform</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes"/>
