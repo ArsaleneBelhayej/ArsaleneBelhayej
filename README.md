@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Arselene Belhayej</h1>
+<h1 align="center">Hi Fellow Devs👋, I'm Arselene Belhayej</h1>
 
 <div align="center">
   <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" alt="Developer animation" />
@@ -79,7 +79,7 @@
 <p align="center">
   <b>LeanAI</b>: AI-enabled, event-driven fitness platform built with Spring Boot microservices and Angular, Kafka for streaming, FastAPI for model serving (TinyLlama), and full DevOps: Docker, Kubernetes, Helm, Jenkins, Prometheus, Grafana, ELK.
 </p>
-<h2 align="left">🤝 Connect with me</h2>
+<h2 align="center">🤝 Connect with me</h2>
 <br/>
 <p align="center">
   <a href="https://linkedin.com/in/arselenebelhayej" target="_blank" title="LinkedIn">
@@ -99,12 +99,13 @@
 <h2 align="center">🏆 Stats & Trophies</h2>
 <!-- ======================== -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArsaleneBelhayej&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="300" alt="GitHub streak"/>
-<br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArsaleneBelhayej&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="300" alt="Top languages"/>
+  
+  <img src="https://github-profile-trophy.vercel.app?username=ArsaleneBelhayej&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="250" alt="Trophies"/>
 </div>
 <br/>
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app?username=ArsaleneBelhayej&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=ArsaleneBelhayej&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak"/>   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArsaleneBelhayej&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="Top languages"/>
 </div>
+<br/>
+
