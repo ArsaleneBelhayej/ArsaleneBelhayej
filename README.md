@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=40&duration=4500&pause=&multiline=true&width=800&height=70&lines=%24+whoami;Arselene+Belhayej)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=40&duration=4500&pause=&multiline=true&width=800&height=90&lines=%24+whoami;Arselene+Belhayej)](https://git.io/typing-svg)
 <div align="center">
   <img height="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" alt="Developer animation" />
 <h3 align="center">
