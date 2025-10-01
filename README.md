@@ -5,7 +5,7 @@
   🌐&nbsp;<a href="https://arselene-belhayej.cloud" target="_blank" rel="noopener noreferrer"><strong>arselene-belhayej.cloud</strong></a>
 </h3>
 </div>
-<h2 align="left">🛠️Technologies</h2>
+<h2 align="left">Technologies ↓</h2>
 <h4 align="center">DevOps & Platform</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="Kubernetes"/>
@@ -66,7 +66,7 @@
 <p align="center">
   <i>Also working with: Helm • ELK Stack • Keycloak.</i>
 </p>
-<h2 align="left">🤝 Connect with me</h2>
+<h2 align="left">Get in touch ↓</h2>
 <br/>
 <p align="center">
   <a href="https://linkedin.com/in/arselenebelhayej" target="_blank" title="LinkedIn">
@@ -83,7 +83,7 @@
   </a>
 </p>
 
-<h2 align="left">🏆 Stats & Trophies</h2>
+<h2 align="left">Stats & Trophies ↓</h2>
 <!-- ======================== -->
 <div align="center">
   
